@@ -6,6 +6,16 @@ body {
     font-family: sans-serif;
     font-family: 'Barriecito', cursive;
 }
+header {
+    background-image:url("../images/PicMonkey-Collage4.jpg");
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+h1 {
+    margin: 0;
+}
 nav {
     background-color: rgb(255, 135, 66);
     height: 50px;
