@@ -1,0 +1,15 @@
+a:hover {
+    font-size: 25px;
+}
+body {
+    margin: 0;
+    font-family: sans-serif;
+    font-family: 'Barriecito', cursive;
+}
+nav {
+    background-color: rgb(255, 135, 66);
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
